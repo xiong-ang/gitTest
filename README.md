@@ -12,3 +12,4 @@ fetch rebase test
 
 123333ffsyyysssx
 test rebase
+test rebase without conflict
